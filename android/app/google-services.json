@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "853333295390",
+    "project_id": "geia-chatapp",
+    "storage_bucket": "geia-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853333295390:android:6c9aa683a289e60fda490f",
+        "android_client_info": {
+          "package_name": "com.example.geia_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853333295390-o0dg02qe3va5r76ungtp1hf0hbo90120.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geia_chat_app",
+            "certificate_hash": "2e8ddb2d7f5827b3cb6e2fe5635729903a9d25af"
+          }
+        },
+        {
+          "client_id": "853333295390-kl9e2u1pr76s521j9ck5uvij2n5rhsps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7g20rFRPzMHeR6TO45kz916-qFqN9N9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853333295390-kl9e2u1pr76s521j9ck5uvij2n5rhsps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
